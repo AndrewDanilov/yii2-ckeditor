@@ -1,6 +1,6 @@
 # Yii2 CKEditor
 
-This is a fork [MihailDev/yii2-ckeditor](https://github.com/MihailDev/yii2-ckeditor)
+This is a fork [sadovojav/yii2-ckeditor](https://github.com/sadovojav/yii2-ckeditor)
 
 #### Features:
 - The ability to add custom plugins
