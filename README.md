@@ -18,9 +18,15 @@ Plugins:
 
 The preferred way to install this extension is through [Composer](http://getcomposer.org/).
 
-Either run ```php composer.phar require sadovojav/yii2-ckeditor "dev-master"```
+Either run
 
-or add ```"sadovojav/yii2-ckeditor": "dev-master"``` to the require section of your ```composer.json```
+```composer require andrewdanilov/yii2-ckeditor "~1.0.0"```
+
+or add
+
+```"andrewdanilov/yii2-ckeditor": "~1.0.0"```
+
+to the `require` section of your ```composer.json```
 
 ### Use
 
