@@ -33,7 +33,7 @@ to the `require` section of your ```composer.json```
 - Widget
 
 ```php
-use sadovojav\ckeditor\CKEditor;
+use andrewdanilov\ckeditor\CKEditor;
 
 echo CKEditor::widget();
 ```
@@ -41,7 +41,7 @@ echo CKEditor::widget();
 - ActiveForm
 
 ```php
-use sadovojav\ckeditor\CKEditor;
+use andrewdanilov\ckeditor\CKEditor;
 
 echo $form->field($post, 'text_full')->widget(CKEditor::className());
 ```
