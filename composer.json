@@ -1,14 +1,9 @@
 {
   "name": "andrewdanilov/yii2-ckeditor",
   "description": "Yii2 CKEditor",
-  "version": "1.0.0",
   "type": "yii2-extension",
-  "keywords": [
-    "yii",
-    "wysiwyg",
-    "editor",
-    "CKEditor"
-  ],
+  "keywords": ["yii","wysiwyg","editor","CKEditor"],
+  "license": "MIT",
   "authors": [
     {
       "name": "Andrey Danilov",
