@@ -1,12 +1,11 @@
 <?php
-
-namespace sadovojav\ckeditor;
+namespace andrewdanilov\ckeditor;
 
 use yii\web\View;
 
 /**
  * Class AssetBundle
- * @package sadovojav\ckeditor
+ * @package andrewdanilov\ckeditor
  */
 class AssetBundle extends \yii\web\AssetBundle
 {

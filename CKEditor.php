@@ -1,6 +1,6 @@
 <?php
 
-namespace sadovojav\ckeditor;
+namespace andrewdanilov\ckeditor;
 
 use Yii;
 use yii\web\View;
@@ -11,7 +11,7 @@ use yii\widgets\InputWidget;
 
 /**
  * Class CKEditor
- * @package sadovojav\ckeditor
+ * @package andrewdanilov\ckeditor
  */
 class CKEditor extends InputWidget
 {
